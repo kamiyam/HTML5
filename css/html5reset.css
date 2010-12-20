@@ -34,7 +34,6 @@ strong,em,address
 {
 	font-style: normal;
 	font-weight: normal;
-
 }
 
 /*object,*/
@@ -148,6 +147,11 @@ hr
 input, select 
 {
     vertical-align:middle;
+}
+
+input
+{
+    font-family:Arial,Helvetica,sans-serif;
 }
 
 
